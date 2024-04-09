@@ -20,7 +20,7 @@ about those fields. I live in *Mission Beach*, and while that is a commute to sc
 At my house I have a big balcony on the third floor that lets me overlook the area and from the right angle I can take a peek
 at the ocean! From the balcony and my living room I love to mix music with my roommates and enjoy the sun when it's out!
 
-![My Roommate, Dan, and I mixing on a lovely Thursday afternoon](./IMG_1807.png)
+![My Roommate, Dan, and I mixing on a lovely Thursday afternoon](./mixing.png)
 
 ## A Casual Week Day
 My normal weekday goes as follows: 
